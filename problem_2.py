@@ -13,4 +13,3 @@ for x in sequence:
     if (x / 2).is_integer():
         total = total + x
 print(total)
-
