@@ -182,3 +182,7 @@ assert z[1::5] == 'ntn  r  iho'
 
 # curly brackets like "{}"
 # ========================
+x = {}  # this is a dictionary
+x = {"nia":"cantik"}  # this is also a dictionary
+x["david"] = "ganteng"
+print(x)
